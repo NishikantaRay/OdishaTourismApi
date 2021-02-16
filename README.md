@@ -5,9 +5,6 @@ https://github.com/puppeteer/puppeteer#readme
 
 <h1><b>For api</b></h1>
 https://odishatourism.herokuapp.com/tourismApi
-<br>
-<h1> Deployment</h1>
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 <br><br>
 <h1>Demo code for web scarping</h1>
 const puppeteer = require('puppeteer');
