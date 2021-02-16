@@ -2,7 +2,8 @@
 
 <h3>Puppeteerjs-https://github.com/puppeteer/puppeteer#readme</h3>
 
-<h3>Host link-https://odishatourism.herokuapp.com/tourismApi</h3>
+<h3>For api</h3>
+https://odishatourism.herokuapp.com/tourismApi
 
 const puppeteer = require('puppeteer');
 
