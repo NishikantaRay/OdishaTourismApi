@@ -1,13 +1,14 @@
 # OdishaTourismApi
 
-<h3>Puppeteerjs-https://github.com/puppeteer/puppeteer#readme</h3>
+<h3><b>Puppeteerjs</b></h3>
+https://github.com/puppeteer/puppeteer#readme
 
-<h3>For api</h3>
+<h3><b>For api</b></h3>
 https://odishatourism.herokuapp.com/tourismApi
 
 const puppeteer = require('puppeteer');
 
-async () => {
+\nasync () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('link')
