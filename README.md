@@ -8,8 +8,8 @@ https://odishatourism.herokuapp.com/tourismApi
 
 const puppeteer = require('puppeteer');
 
-\nasync () => {
-    const browser = await puppeteer.launch();
+<p>async () => {
+    /nconst browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('link')
   let headtext = await page.$eval('#main-slider > div > div > div > h3', gd => gd.innerText);
@@ -18,4 +18,4 @@ const puppeteer = require('puppeteer');
 	# let array = [headtext, imgsrc[0], descp];
 	 # console.log(array);
 	 # await browser.close();
-})();
+})();</p>
