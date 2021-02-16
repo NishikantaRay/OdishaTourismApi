@@ -6,17 +6,7 @@ https://github.com/puppeteer/puppeteer#readme
 <h1><b>For api</b></h1>
 https://odishatourism.herokuapp.com/tourismApi
 <br>
-## Deployment
-```sh
-$ git clone git@github.com:sumeetweb/lokalkoins-api.git # or clone your own fork
-$ cd lokalkoins-api
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-or
-
+<h1> Deployment</h1>
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 <br><br>
 <h1>Demo code for web scarping</h1>
