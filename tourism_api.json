@@ -1,0 +1,299 @@
+{
+    "odisha":{
+        "bhubaneswar":[
+            {
+                "id":1,
+                "name":"Bhubaneswar",
+                "title":"Bhubaneswar",
+                "description":"Bhubaneswar, the capital of Odisha, is one of the most ancient cities in India. With several popular temples dominating its skyline, Bhubaneswar is widely considered to be the seat of Tribhubaneswar or Lord Lingaraj, an incarnation of Lord Shiva, and is an important Hindu pilgrimage centre.",
+                "image":"https://www.incredibleindia.org/content/dam/incredible-india-v2/images/video/Bhubaneshwar.mp4"
+            },
+            {
+                "id":2,
+                "name":"Dhauli Giri Hills",
+                "title":"Dhauli Giri Hills",
+                "description":"Located about 8 km from Bhubaneswar, Dhauli Giri Hills is best known as the site of the Peace Pagoda or Dhauli Shanti Stupa. The dome-shaped Shanti Stupa has stone panels displaying Lord Buddha's footprints and the Bodhi tree. The dome has five umbrellas, symbolising the five essential parts of Buddhism. After dark, there is a grand sound-and-light show organised here with state-of-the-art projectors beaming laser rays on the stupa, narrating its grand history in 3D. From the time of the Kalinga empire to the feuds of the Mauryan empire, and the crowning of king Ashoka, the show covers it all in around 35 minutes. It ends with Ashoka adopting Buddhism, post the Kalinga War. In close proximity to the stupa are rock-cut caves and temples, including the temple of Dhavaleswara.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-dhauligiri-hill-150.jpg"
+            },
+            {
+                "id":3,
+                "name":"Rajarani Temple",
+                "title":"Rajarani Temple",
+                "description":"Made using sandstone, the Rajarani Temple is an ancient space of worship in Bhubaneswar that is famed for its sculpted figures and tiers of projections, rising to form its 18-m-high tower. With a lush green cover around it, the temple has picturesque surroundings. Interestingly, there have been claims that it used to be a Vaishnava temple earlier, but the presence of several sculptures has successfully repudiated that particular belief. In fact, in contravention of the belief, there are Shaiva sculptures carved on the body of the main temple.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-rajarani-temple-0.jpg"
+            },
+            {
+                "id":4,
+                "name":"Pathani-Samanta-Planetarium",
+                "title":"Pathani-Samanta-Planetarium",
+                "description":"It was set up with an aim of spreading awareness about the study of astrophysics, astronomy and space science. It gives help to those who want to take up a career in astronomy and supports scientists as well. The planetarium features a fully equipped library that has a rich collection of books on technology, science and environment. It is an interesting and engaging landmark in the city of Bhubaneswar, where one can participate in various activities like night-sky viewing, poster shows and audio-visual programmes. The show that it displays on outer space is quite alluring and is played every day except on Monday. The usual time is from 1400 to 1700 hours. One needs to get tickets to see it.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-pathani-samantha-planetarium-120.JPG"
+            },
+            {
+                "id":5,
+                "name":"Khandagiri-And-Udaygiri-Caves",
+                "title":"Khandagiri-And-Udaygiri-Caves",
+                "description":"The twin hills of Khandagiri and Udaygiri, also known as Kumargiri and Kumarigiri, are renowned for their rock-cut caves, that were built for Jain monks sometime during 1st and 2nd centuries BC. They also feature the lithic record of 13 years of Kalinga king, Kharavela's reign. His queen was a patron of arts and crafts, which is why the sculptures and designs of these caves are extraordinary. These lithic records are inscribed on the walls of the Hathi Gumpha or elephant cave in Udaygiri, and are a grand example of Pali records found in India. The Rani Gumpha, also in the Udaygiri caves, is worth a visit for its spacious courtyard and sculptural friezes. While Khandagiri has 15 caves and is located on the left, Udaygiri has 18 caves and is located on the right. These caves are located about 7 km west of Bhubaneswar's city center.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-khandagiri-and-udaigiri-caves-20.jpg"
+            },
+            {
+                "id":6,
+                "name":"Ekamra Walks",
+                "title":"Ekamra Walks",
+                "description":"Ekamra Kshetra is the ancient name for the city of Bhubaneswar. The aim of Ekamra Walks, an initiative by Odisha Tourism, is to take visitors on a tour of all that the city has to offer through guided heritage walks. These walks usually focus on those areas of Bhubaneswar that hold tremendous historical and cultural significance, introducing travellers to the city's exquisite temples and other historical structures. Every Saturday, a heritage walk is conducted in the Khandagiri Hills, while on Sundays, there is a heritage walk in the Old Town as well as a Museum Walk at Kala Bhoomi. The Kalinga architecture of the temples, the residences of Jain monks, and Kala Bhoomi (the Odisha Crafts Museum) that showcases the handicrafts and handloom of the state, can be enjoyed on these tours.",
+                "image":"https://blogvirasatehind.files.wordpress.com/2017/03/bhubaneswar-temples-012.jpg?w=840"
+            },
+            {
+                "id":7,
+                "name":"Lingaraj-Temple",
+                "title":"Lingaraj-Temple",
+                "description":"The iconic Lingaraj Temple is dedicated to Lord Shiva and is considered to be the most ancient temple in Bhubaneswar. Widely considered to have been built in the 6th century, it finds mention in the Brahma Purana. The structure represents Odishan architecture at its most mature stage, with its deul (tower) rising to a height of more than 180 ft. It is particularly fascinating in the way that the turrets inserted on the ribs of the spire incorporate miniature replicas of the tower itself. Moreover, there is an optical illusion at play, which is why this 55-m-high temple looks bigger than it actually is! The temple's walls  are adorned with intricate carvings and scriptures, and add to its architectural elegance..",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-lingaraj-temple-0.jpg"
+            },
+            {
+                "id":8,
+                "name":"Ananta-Vasudeva Temple",
+                "title":"Ananta-Vasudeva Temple",
+                "description":"Dedicated to Lord Vishnu, the Ananta-Vasudeva Temple was built by Queen Chandrika some time during the 13th century. The temple showcases Vaishnav symbols and figures, and resembles the Lingaraj Temple of Bhubaneswar. Inside, there are idols of Lord Krishna, Lord Balarama and Goddess Subhadra. While the idol of Balarama stands under a seven-hooded serpent, that of Subhadra holds a pot of jewels, and Lord Krishna holds a mace, chakra, lotus and conch. Moreover, the temple has miniature shrines and most of the female sculptures are highly ornamented. Ananta Vasudeva is another name for Lord Vishnu, and legend has it that even before the temple was constructed, an idol of Lord Vishnu was worshipped here. And locals say that this legend proves an older temple existed at the same site. It is said that the Marathas, who had extended their empire up to River Mahanadi in this region, renovated the Ananta Vasudeva Temple in the late 17th century.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-ananta-vasudeva-temple-20.jpg"
+            },
+            {
+                "id":9,
+                "name":"Odisha-State-Museum",
+                "title":"Odisha-State-Museum",
+                "description":"The Odisha State Museum was set up in the year 1938 in Cuttack, but moved to Bhubaneswar, when the capital was shifted. It comprises several galleries that house epigraphy and numismatic showcases, natural history exhibits, armoury, mining artefacts, geological displays, manuscripts, archaeological exhibits, and works of art and craft. The museum also works to collect, display, document and preserve antique items, maintain journals, facilitate research on art history and organise exhibitions as well as seminars.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-odisha-state-museum-120.jpg"
+            },
+            {
+                "id":10,
+                "name":"Museum-Of-Tribal-Arts-And-Artefacts",
+                "title":"Museum-Of-Tribal-Arts-And-Artefacts",
+                "description":"With exhibits ranging from tribal costumes, jewellery and art to household objects and musical instruments, the Museum of Tribal Arts and Artefacts is a must-visit in Bhubaneswar. One of the best tribal museums in India, it was established in 1953 with an aim to protect and promote the tribal culture of Odisha. The museum was recognised as the best among the 21 tribal museums in the country by UNESCO in 2010.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-museum-of-tribal-arts-and-artifacts-175.jpg"
+            },
+            {
+                "id":11,
+                "name":"Ananta-Vasudeva Temple",
+                "title":"Ananta-Vasudeva Temple",
+                "description":"Dedicated to Lord Vishnu, the Ananta-Vasudeva Temple was built by Queen Chandrika some time during the 13th century. The temple showcases Vaishnav symbols and figures, and resembles the Lingaraj Temple of Bhubaneswar. Inside, there are idols of Lord Krishna, Lord Balarama and Goddess Subhadra. While the idol of Balarama stands under a seven-hooded serpent, that of Subhadra holds a pot of jewels, and Lord Krishna holds a mace, chakra, lotus and conch. Moreover, the temple has miniature shrines and most of the female sculptures are highly ornamented. Ananta Vasudeva is another name for Lord Vishnu, and legend has it that even before the temple was constructed, an idol of Lord Vishnu was worshipped here. And locals say that this legend proves an older temple existed at the same site. It is said that the Marathas, who had extended their empire up to River Mahanadi in this region, renovated the Ananta Vasudeva Temple in the late 17th century.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-ananta-vasudeva-temple-20.jpg"
+            }
+        ],
+        "puri":[
+            {
+                "id":1,
+                "name":"Puri",
+                "title":"Puri",
+                "description":"Spirituality and divinity echo through every by-lane of the temple city of Puri. A very popular destination of pilgrimage for Hindus, the city is sprawled along the long and pristine coastline of the Bay of Bengal, in the state of Odisha. Buzzing with devotees, who come here to pay obeisance at the Lord Jagannath Temple, Puri is also known worldwide for the larger-than-life celebrations associated with its presiding deity. While one part of the city gets busy celebrating the annual festival of Ratha Yatra (chariot procession of Lord Jagannath), that sees lakhs of footfalls, the other part on the outskirts, fringed by beaches and lakes, remains blanketed in relative calm and serenity, making it a hub for nature lovers.",
+                "image":"https://www.incredibleindia.org/content/dam/incredible-india-v2/images/video/Puri.mp4"
+            },
+            {
+                "id":2,
+                "name":"Pipli",
+                "title":"Pipli",
+                "description":"Dedicated to Lord Vishnu, the Ananta-Vasudeva Temple was built by Queen Chandrika some time during the 13th century. The temple showcases Vaishnav symbols and figures, and resembles the Lingaraj Temple of Bhubaneswar. Inside, there are idols of Lord Krishna, Lord Balarama and Goddess Subhadra. While the idol of Balarama stands under a seven-hooded serpent, that of Subhadra holds a pot of jewels, and Lord Krishna holds a mace, chakra, lotus and conch. Moreover, the temple has miniature shrines and most of the female sculptures are highly ornamented. Ananta Vasudeva is another name for Lord Vishnu, and legend has it that even before the temple was constructed, an idol of Lord Vishnu was worshipped here. And locals say that this legend proves an older temple existed at the same site. It is said that the Marathas, who had extended their empire up to River Mahanadi in this region, renovated the Ananta Vasudeva Temple in the late 17th century.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-pipli-150.jpg"
+            },
+            {
+                "id":3,
+                "name":"Chilika-Lake",
+                "title":"Chilika-Lake",
+                "description":"Spread over 1,100 sq km, the Chilika Lake is Asia's largest brackish water lake. It is one of the most important eco-tourism sites in the country and lies about 37 km from Puri. Chilika's unique location and water composition make it an ideal home for over 100 varieties of fish, crabs and other sea animals and the star attraction is the endangered Irrawaddy dolphin. Running parallel to the Bay of Bengal, the sea water flows inland into the lake. In winter, thousands of migratory birds flock here, among whom the pink flamingos are the most photographed. Watching flocks of birds take off into the air in a coordinated pattern is mesmeric. The lake's shallow waters enclose large tracts of marshes, lowlands and islands, among which the most prominent are Nalbana Island and Kalijai Island. The Nalbana Island, with its wide variety of flora and fauna, forms the core of the Chilika Sanctuary. Kalijai Island is home to Goddess Kalijai, revered by local fishermen. This island plays host to a large fair during the annual Makar Sankranti festival in January. You can hire boats for regular rides around the lake or opt for special ones that take you to places where the shy Irrawaddy dolphins can be spotted.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-chilika-lake-150.jpg"
+            },
+            {
+                "id":4,
+                "name":"Golden-Beach",
+                "title":"Golden-Beach",
+                "description":"Also famous as the Puri Beach, the Golden Beach is a stretch of fine golden sand dotted with stalls selling sumptuous sea food and knick-knacks. It is popular with pilgrims who come to worship Lord Jagannath at the temple located nearby. The grand Marine Drive road running parallel to the beach is a popular spot for long walks. The fine sands of Puri beach and the roar of the waters from the Bay of Bengal fascinate visitors throughout the year. The local fishermen with their wide-brimmed cane hats, along with excellent hotels and guesthouses, make Puri beach an ideal holiday spot with plenty of things to do here. The beach's choppy waters are also an ideal choice for surfing enthusiasts. Visitors here can take a stroll, browse pearls and seashell souvenirs sold by local vendors or marvel at impressive sand sculptures, including the work of internationally recognised local artist Sudarshan Pattnaik. The beach also hosts the annual Puri Beach Festival every November. There are also a plethora of options with a lot of stalls selling snacks for foodies; there are several shacks along the beach selling fried and grilled seafood like prawns, crabs and pomfrets, freshly caught from the sea, along with vegetable pakodas. Puri also has a lighthouse which remains open from 4 pm to 6 pm. One can get a spectacular view of the sea and the beach from the top of the lighthouse.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-golden-beach-150.jpg"
+            },
+            {
+                "id":5,
+                "name":"Gopalpur",
+                "title":"Gopalpur",
+                "description":"The small town of Gopalpur lies about 16 km Berhampur and 173 km from Puri. It is a popular beach resort of Odisha whose inviting clear and blue waters lure visitors from all over the country. Lying on the Bay of Bengal, it is an attractive stopover for beachcombers and sea worshippers. Sunrises and sunsets are stunning sights at this beach. Adventure junkies can try their hand at surfing and sailing to explore spots untouched by humans. Popularly regarded as a sailor's paradise, in ancient times this beach served as an important port for the seafarers of Kalinga. Even during WWI it was an important military port from where soldiers embarked on journeys to Burma (now Myanmar). It was here that the first ever modern hotel was built in Odisha in 1914. The beach is lined with casuarina groves and is one of the cleanest in India. Even though the sea is too rough to go swimming, there are plenty of other activities that can be enjoyed. You can take a quiet stroll and soak in the sights of the beach or roam around the town to look at beautiful old buildings; seafood lovers will find plenty of food joints to indulge themselves and courtesy the Kalinga Divers Association, there are boating and water sports facilities available as well.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-golden-beach-150.jpg"
+            },
+            {
+                "id":6,
+                "name":"Gopalpur Beach",
+                "title":"Gopalpur Beach",
+                "description":"An erstwhile port town, the small sleepy town of Gopalpur on the Bay of Bengal is popular for its pristine beach. With fine sand and deep and clear blue waters, Gopalpur Beach is an ideal spot for a lap or two in the sea. And if you are not a swimmer, nuliahs (local fishermen) can help you learn. White surf splashing on the golden sand makes Gopalpur one of the finest beaches on the eastern coast. The ruins of a port, a lighthouse and a few colonial-style old bungalows stand testament to Gopalpur's past as a bustling commercial town till about 1942, when its port ceased operations. Hardly 16 km from Berhampur, the hub of southern Odisha, this is an ideal site to rewind and relax. Swim, take long walks on the beach or just watch fishermen ride out the distant waves, all the while soaking in the serenity of the place.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-gopalpur-beach-20.jpg"
+            },
+            {
+                "id":7,
+                "name":"Gundicha Temple",
+                "title":"Gundicha Temple",
+                "description":"The Gundicha Temple stands in the midst of a garden, just 3 km from the Jagannath Temple. Located on Bada Danda (Grand Road), on which the famous Rath Yatra (chariot procession) takes place, the temple is named after Gundicha, the queen of Indradyumna, who commissioned the temple. It sees a lot of activity during the Rath Yatra festival every year. Known by many names like the Garden House of Jagannath or Gods Summer Garden Retreat, Gundicha Temple is said to be the Vrindavan of Puri. It serves as the temporary home of Lord Jagannath during the Rath Yatra. Built in the traditional Kalinga style of architecture, Gundicha's facade is extremely beautiful, thanks to the light grey sandstone that was used to construct it. The temple also houses a seat called 'Ratnavedi', which is 4 ft high. During major festivals, idols are placed on this seat. The temple has two entrance gates: the main gate in west and the Nakuchana gate in the east. During festivals, deities enter through the former and exit via the latter.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-gundicha-temple-120.jpg"
+            },
+            {
+                "id":8,
+                "name":"Narendra Sarovar",
+                "title":"Narendra Sarovar",
+                "description":"Located on the north-east of the Jagannath Temple, Narendra Sarovar is the largest of Puris holy ponds or tanks. Also called Sri Chandana Pukur, it is the place where legend says Lord Jagannath comes during the annual Chandan Yatra (held in April-May) for nauka lila (boating excursion). The Chandan Yatra (sandalwood voyage) also marks the beginning of the grand Rath Yatra (chariot procession). During the yatra, thousands of devotees take a dip in the tank as they believe it would wash away their sins. A small island at the centre of the tank houses a temple dedicated to Lord Jagannath and his siblings, Lord Balabhadra and Goddess Subhadra. During the festival, beautifully decorated boats are used for taking the lord around the tank. As the boats do rounds of the waterbody, devotees throng its banks, dancing and singing.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-narendra-sarovar-120.jpg"
+            },
+            {
+                "id":9,
+                "name":"Satpada",
+                "title":"Satpada",
+                "description":"Odisha is noted for being home to around 100-odd endangered Irrawaddy dolphins. You can visit these dolphins at Satpada village near the Chilika Lake. Satpada (meaning a group of seven settlements in Odia language), is located around 50 km from Puri. At the Satpada Jetty, hire a boat that will take you to the blue expanse of the Chilika Lake, which houses the Sea Mouth Island on the point of its convergence with the Bay of Bengal. Spot Irrawaddy dolphins in the lake at Dolphin Point and then take a leisurely stroll at Sea Mouth island or bite into freshly fried fish and crabs at small kiosks. A day's trip is usually enough time to explore Satpada. Boating excursions from Satpada towards the Chilika Lake range from dolphin-spotting adventures to birdwatching to daylong outings where you can explore several islands. At Satpada village, you can visit the Chilika eco-park where visitors can find a 12-m-long whale skeleton on display. Apart from the Sea Mouth, islands like Nalabana, Honeymoon, Breakfast and Rajhans in the vicinity attract a large number of tourists as well.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-satapada-120.jpg"
+            },
+            {
+                "id":10,
+                "name":"Sri Jagannath Temple",
+                "title":"Sri Jagannath Temple",
+                "description":"Sri Jagannath Temple is one of the most revered and sacred pilgrimage sites in India. Its main deity is Lord Jagannath, who is said to be an incarnation of Lord Vishnu.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-sri-jagannath-temple-155.jpg"
+            },
+            {
+                "id":11,
+                "name":"Sun Temple",
+                "title":"Sun Temple",
+                "description":"Dedicated to Surya or the Sun God and designed like his chariot, the massive and magnificent Sun Temple at Konark (kona meaning angle and ark referring to the sun) is one of the finest examples of ancient Indian architectural heritage. A UNESCO World Heritage Site, the breathtakingly splendid temple was once described by Nobel Laureate Rabindranath Tagore as the place where the language of stone surpasses the language of man. Situated around 30 km from Puri, the temple, seemingly rising from the depths of the sea, is just 2 km away from the Bay of Bengal coastline. Built in the 13th century by Ganga king Narasimhadeva I, the temple with stunning sculptural details, marks the most evolved period in the Kalinga architecture. It is said that the temple was designed in such a way that the rising sun's first rays would illuminate the deul (sanctuary) and the presiding deity. The temple stands on a base of a total of 24 intricately carved wheels, 12 on each side. Four of the 24 wheels can be used as sundials to tell the time!",
+                "image":"https://www.incredibleindia.org/content/dam/incredible-india-v2/images/video/Konark-vedio.mp4"
+            },
+            {
+                "id":12,
+                "name":"Raghurajpur",
+                "title":"Raghurajpur",
+                "description":"Located about 52 kilometres away from Bhubaneswar, Raghurajpur is a heritage crafts village and is famous for pattachitra paintings. This art form is dated back to the 5th century B.C. They are painted on a piece of cloth and feature mythological themes. Visitors can also buy tussar paintings, palm leaf engravings, pottery, paper mache items, masks carvings of wood and stone, and cow dung and wooden toys here. It is possibly the only place in India where there is such a large congregation of artists.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/puri-raghurajpur-120.jpg"
+            }
+        ],
+        "Cuttack":[
+            {
+                "id":1,
+                "name":"Cuttack",
+                "title":"Cuttack",
+                "description":"The name 'Cuttack' is derived from the anglicised Sanskrit word 'Kataka', meaning military camp or seat of government. It also means the fort, referring to the ancient Barabati Fort, around which the city developed. Cuttack used to be the former capital of Odisha before the title passed on to Bhubaneswar, located about 25 km away. From pretty landscapes to a variety of activities, there is something here for everyone  be it a lover of shopping, history, archaeology or spirituality. One can visit Cuttack at any time of the year, but winter is considered to be the ideal time. Cuttack is the second-largest city in the state of Odisha and the headquarters of the Cuttack District. Its history goes back a 1,000 years and that is why it is also known as the Millennium City. Sometimes it is referred to as Silver City because of the beautiful filigree works made here. Cuttack is also well-known for woven textiles and horn works. As for food, the local dahibara is highly popular, along with chhena poda or rasgulla. Another interesting feature of the city is that this is where Netaji Subhas Chandra Bose was born. There are four rivers that run through this city, including the Mahanadi and its distributaries Kathajodi, Kuakhai and Birupa. Kathajodi river is further divided into Devi and Biluakhai. Cuttack is also hailed as the City of Brotherhood as people from all religions have been living here for centuries with a lot of affection and goodwill amongst each other.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/cuttack/cuttack-kendrapara-0.jpg"
+            },
+            {
+                "id":2,
+                "name":"Kantilo",
+                "title":"Kantilo",
+                "description":"On the banks of River Mahanadi lies Kantilo, a town about 100 km from Bhubaneswar. It is noted for being the home of a temple dedicated to Lord Nilamadhaba. The structure lies atop the twin hills of Brahmadri (this hill is well-known for offering a beautiful view of the sunset from the top) and Niladri and is surrounded by a forest. It is revered by those who worship Lord Jagannath and the presiding deity of the temple is believed to be an earlier form of Lord Jagannath of Puri. In the cult of Lord Jagannath, Lord Nilamadhaba is said to occupy a key position. In fact, in the Jagannath Puri Temple, Lord Nilamadhaba's shrine is present on the right side of the Lakshmi Temple. Since it's a miniature version of Puri's Sri Jagannath Temple, it follows the same rites and rituals. It is believed that a perennial flow of holy water emanates from the feet of Lord Nilamadhaba. The temple sees a large footfall during the celebrations of Maghasaptami  Bhaimaekadashi, in the month of Magha here.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-kantilo-20.jpg"
+            }
+        ],
+        "Koraput":[
+            {
+                "id":1,
+                "name":"Koraput",
+                "title":"Koraput",
+                "description":"Covered with thick forests and dotted by pristine waterfalls and deep valleys, Koraput, in Odisha, is a natural retreat with a languid pace of life. Home to various tribes of the state of Odisha, Koraput showcases the colours of tribal life and a rich folk culture. The region's bustling and lively tribal market is at the heart of Koraput, where one can soak in the vibrant culture of tribes. The popular Jagannath Temple here draws devotees from far and wide. From exploring the natural beauty of Koraput and experiencing energetic festivities to paying obeisance at various temples, this off-beat destination, lying along the Eastern Ghat mountains, offers a lot of variety to travellers.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-koraput-150.jpg"
+            },
+            {
+                "id":2,
+                "name":"Deomali",
+                "title":"Deomali",
+                "description":"With an elevation of about 1,672 m, Deomali mountain peak, in the Chandragiri-Pottangi subrange of the Eastern Ghats, is the highest peak in Odisha. It is surrounded by deep green forests and dotted with brooks and deep valleys. One can find a rich variety of flora and fauna. This off-beat attraction is a serene stopover for those who want to witness nature at close quarters. Adventure lovers also find this place appealing as they can indulge in various activities like hang-gliding, mountaineering and trekking.",
+                "image":""
+            },
+            {
+                "id":3,
+                "name":"Jeypore",
+                "title":"Jeypore",
+                "description":"A city steeped in history and spirituality, Jeypore around 23 km away from Koraput, is an ideal stopover for those wishing to delve into the historical riches of the state of Odisha. The history of the heritage town of Jeypore goes back to the fabled throne of king Vikram Dev, of the Solar dynasty. The city has several old palaces, temples and other heritage sites, standing testament to the bygone era. Three well-known temples are perched atop three hillocks in three different directions and are dedicated to Lord Jagannath, Lord Shiva and Swami Vivekananda, respectively. The city offers a mix of cultures, with a significant number of people speaking different languages such as Odia, Telugu, Hindi and Bengali. One major attraction in Jeypore is the Bagra Waterfalls on Kolab river.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-koraput-150.jpg"
+            },
+            {
+                "id":4,
+                "name":"Gupteshwar",
+                "title":"Gupteshwar",
+                "description":"Located on a lush green limestone hill, the Gupteshwar cave shrine of Lord Shiva, is a much-revered pilgrimage site. The shrine is called Gupteshwar, which means the hidden god. It is named so because the temple was hidden in the cave for a very long period. One can reach it by climbing 200 steps flanked with rows of champak trees. The cavernous interior of the temple enshrines a huge lingam and the cave is a multi-chambered structure. Its entrance is about 3 m wide and 2 m high. Inside the second cave, there is a large stalactite that is worshipped as the udder of Lord Kamadhenu (the divine cow).",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-koraput-150.jpg"
+            },
+            {
+                "id":5,
+                "name":"Duduma",
+                "title":"Duduma",
+                "description":"One of the highest waterfalls in the country, falling from a height of 157 m, the gushing Duduma Waterfalls is a sight for sore eyes. Located inside a dense forest and offering enchanting views of surrounding areas, it is a beautiful spot. The falls, which has been formed by the Machkund river, has two sub falls, one of which drops in Andhra Pradesh, and the other in Odisha. Many believe that the enigmatic Bonda tribe also lives near this falls. Tourists can pay a visit to the nearby popular pilgrimage place of Matsya Tirtha, where they can take a dip in the water, which is believed to absolve people of their sins.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-koraput-150.jpg"
+            },
+            {
+                "id":6,
+                "name":"Sunabeda",
+                "title":"Sunabeda",
+                "description":"Ideal for summer holidays, green Sunabeda enjoys pleasant weather throughout the year and is relatively cooler than its surrounding areas. Located in the valleys of Koraput, Sunabeda has lush landscape that draws tourists for its beauty. It also holds sites of spiritual significance and one can pay obeisance to Maa Banadurga, whose idol is housed in an old temple at Shantinagar. The place also houses a temple of Lord Shiva and Lord Ayyappa. Another attraction nearby is the Sunabeda Wildlife Sanctuary that is home to animals like tigers, leopards and barking deer, and several species of birds. Sprawled over an area of 600 sq km, it is a stretch of dry deciduous forests peppered with waterfalls. ",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-koraput-150.jpg"
+            }
+        ],
+        "Sambalpur":[
+            {
+                "id":1,
+                "name":"Hirakud Dam",
+                "title":"Hirakud Dam",
+                "description":"Considered to be one of the first river valley projects in India, the Hirakud is among the longest dams in the world. It is located in the Sambalpur district of Odisha, about 290 km from the city of Bhubaneswar. Apart from being a magnificent body of water that provides irrigation and hydroelectricity to nearby areas, it is also known to be home to several bird species like common pochards, red-crested pochards and great crested grebes, making it an appealing spot for birdwatchers. The dam is a popular tourist stopover as it boasts beautiful surroundings and one of the largest artificial lakes in India. Not only are visitors treated to awe-inspiring views here, but also to boating opportunities. Its beautiful surroundings also make it a relaxing place.",
+                "image":"https://www.incredibleindia.org/content/dam/incredible-india-v2/images/places/bhubaneswar/bhubaneswar-bhubaneswar-hirakud-dam-bhubaneswar-hirakud-dam.jpg"
+            }
+        ],
+        "Balasore":[
+            {
+                "id":1,
+                "name":"Balasore",
+                "title":"Balasore",
+                "description":"Balasore is a coastal area in Odisha, lying in the northern part of the state. It falls at a distance of nearly 195 km from Bhubaneswar. Spread over an area of about 3,634 sq km, its natural beaches and heritage temples attract tourists from all over the country. The place is generally hot and humid, with May being the hottest month, and December the coolest. Other places that one can mark on their itinerary include Chandipur, Talasari sea beach, Chawmukh sea beach, Kashaphal sea beach and temples like Panchalingeswar, Khirochora Gopinath, Langaleswar, Laxmannath, Chandaneswar, Maninageswar. The main Baleshwar Temple is dedicated to Baleshwar, another name for Lord Shiva. Balasore is the headquarters of the Baleshwar district and used to be an important maritime town during the medieval times. The parts of the town called Farasidinga and Dinamardinga used to be occupied by the French and the Dutch and one can still find remnants of the foreign possession in this town. It was earlier part of the ancient Kalinga and later became a territory of Toshal or Utkal; remaining so till the death of Mukunda Dev, one of the rulers of the state of Odisha. It was created as a separate district in 1828; earlier it was in the Bengal presidency. The game of Akhada, played during Durga Puja, is popular in Balasore.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/balasore/balasore-chandipur-0.jpg"
+            }
+        ],
+        "Khurda":[
+            {
+                "id":1,
+                "name":"Barunei Hill",
+                "title":"Barunei Hill",
+                "description":"This hillock is a popular picnic spot and its proximity to Khurda Fort and many other tourist hotspots has made it a popular stopover for sightseeing. Barunei Hill is also home to a shrine dedicated to Goddess Barunei. Legend has it that king Ramachandra Dev had built the temple for the goddess. A stream called Swarna Ganga flows down the hill and its water is said to have many medicinal properties. Tourists often come here to bathe in its curative water. The hill also makes for a nice trekking spot and local lore says the Pandavas had stayed in the caves in these hills. Other attractions nearby include the hot spring of Atri, Nikunja Bihari and Radhakanta Deb temples, Sufi shrine Kaipadadar etc.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-barunei-20.jpg"
+            },
+            {
+                "id":2,
+                "name":"Atri",
+                "title":"Atri",
+                "description":"Located in the Khurda district, about 42 km from the city of Bhubaneswar, is Atri, a town noted for its hot water spring. This spring, located amidst greenery, is enriched with the goodness of sulphur, and it is believed that a dip in its water can cure visitors of skin ailments. The water's temperature is about 55 degrees centigrade, so it is not boiling hot, which makes it suitable for children as well. There is a bathing complex located in the vicinity, which provides facilities for steam-bathing to tourists. The spring can be visited throughout the year and is considered sacred by many. Lots of locals come here to have family picnics. While visiting here, one can also pay a visit to the various temples that are located nearby.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-atri-20.jpg"
+            }
+        ],
+        "Paradeep":[
+            {
+                "id":1,
+                "name":"Paradeep",
+                "title":"Paradeep",
+                "description":"Paradeep is a major port city in Odisha that lies at a distance of 104 km from Bhubaneswar. It is a municipality of Jagatsinghpur district in Odisha and boasts fine and expansive beaches that are a delight for travellers. There is also a lighthouse at the beach with a differential global positioning system. Apart from the blue waters, clear skies, sun-drenched evergreen forests and many miles of lush green grasslands that are crisscrossed by rivers and streams, Paradeep is well-known for its marine drive. The Muhana Point is an estuary point where River Mahanadi merges with the Bay of Bengal. Tourists can also visit the Smruti Udyan, dedicated to the memory of the people who lost their lives in the Super Cyclone of 1999. It has a beautiful musical fountain as well. The Paradip Marine Aquarium, the largest in Odisha, is also a must-visit and has 28 tanks containing different fish species.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-paradip-10.jpg"
+            }
+        ],
+        "Berhampur":[
+            {
+                "id":1,
+                "name":"Berhampur",
+                "title":"Berhampur",
+                "description":"Berhampur is a vibrant industrial town located about 171 km from Bhubaneswar. It is located to the south of the Chilika Lake and is famed for its ikat silk textiles. The town is also known for artisans who make brass and bell metalware, wood carvings and carpets. There are shrines dedicated to Thukurani, Jagannath and Nilakantheswar Shiva here, along with a museum that houses a collection of sculptures, and specimens of anthropological and natural history. Jaugarh, a popular place, is noteworthy because it is home to Ashokan rock edicts and other archaeological ruins. From this, one can conclude that the place was a part of Mauryan ruler Ashoka's empire, who was a proponent of Buddhism. Tourists can also relax in various beach resorts around the area.",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-berhampur-170.jpg"
+            }
+        ],
+        "Kendrapada":[
+            {
+                "id":1,
+                "name":"Bhitarkanika National Park",
+                "title":"Bhitarkanika National Park",
+                "description":"Located near Cuttack, this national park is sprawled over an area of 650 sq km. Housing some of the world's rarest flora and fauna, the park is a must-visit for any wildlife enthusiast. The most popular sightings here include crocodiles, black ibris, darters, egrets, etc. The park is an idyllic spot for birdwatchers, who can spot up to 215 species of migratory birds. The major attraction here is a crocodile that can grow up to 23 ft. ",
+                "image":""
+            } 
+        ],
+        "Bolangar ":[
+            {
+                "id":1,
+                "name":"Yogini Temple",
+                "title":"Yogini Temple",
+                "description":"Located on the outskirts of Bhubaneswar, Hirapur is a small town known for a hypaethral (open to the sky) temple of 64 Yoginis, called the Yogini Temple. It is said that the temple was hypaethral because the yogini cult used to worship the five natural elements: air, water, fire, earth and ether/sky. Dating back to the 9th century, this small temple is only the second of its kind in Odisha, and one of only four such temples in India. Another is located in Ranipur-Jharial in Bolangar District of Odisha. The other two such temples are in Madhya Pradesh. Its construction is attributed to Queen Hiradevi, the mother of King Subhakar Dev II, of the Bhaumakar dynasty. The yogini cult, in which yoga was practiced along with tantrism, is said to have flourished in India between 8th century AD and 13th century AD. In this, a chakra or wheel with 64 spokes used to be worshipped and Goddess Kali was the presiding deity. Believed to be offshoots of the Saptamatrika, the yoginis were vivacious and embraced life. They were said to be the reincarnations of Goddess Shakti and represented ultimate feminine power. The temple in Hirapur is a circular structure surrounded by a pond and leafy trees, and is unique for many reasons. It is the only temple to have statues on its outer walls. The nine sandstone statues stand for female figures. Each figure can be seen standing on a human head while holding a weapon in one hand. Their shape and form have led historians to believe that they might represent guardian deities. The main door to the shrine is very small. Inside, built into the circular wall, are 60 niches. All but one niche are home to tiny images of yogini goddesses. ",
+                "image":"https://www.incredibleindia.org/content/dam/incredibleindia/images/places/bhubaneswar/bhubaneswar-hirapur-0.jpg"
+            }
+        ]
+    }
+}
