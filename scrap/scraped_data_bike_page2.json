@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Yamaha MT 15 V2",
+    "price": "Rs. 1.67 Lakh",
+    "milage": "56 kmpl"
+  },
+  {
+    "name": "Hero Karizma XMR",
+    "price": "Rs. 1.72 Lakh",
+    "milage": "-"
+  },
+  {
+    "name": "Royal Enfield Classic 350",
+    "price": "Rs. 1.93 Lakh",
+    "milage": "41 kmpl"
+  },
+  {
+    "name": "Hero Splendor Plus",
+    "price": "Rs. 74,491",
+    "milage": "83 kmpl"
+  },
+  {
+    "name": "Yamaha R15 V4",
+    "price": "Rs. 1.81 Lakh",
+    "milage": "55 kmpl"
+  },
+  {
+    "name": "Royal Enfield Hunter 350",
+    "price": "Rs. 1.49 Lakh",
+    "milage": "36 kmpl"
+  },
+  {
+    "name": "TVS Raider",
+    "price": "Rs. 86,803",
+    "milage": "67 kmpl"
+  },
+  {
+    "name": "Bajaj Pulsar NS200",
+    "price": "Rs. 1.49 Lakh",
+    "milage": "40 kmpl"
+  },
+  {
+    "name": "Honda SP 125",
+    "price": "Rs. 86,017",
+    "milage": "65 kmpl"
+  },
+  {
+    "name": "TVS Apache RTR 160",
+    "price": "Rs. 1.13 Lakh",
+    "milage": "47 kmpl"
+  }
+]
